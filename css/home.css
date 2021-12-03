@@ -1,0 +1,42 @@
+
+body{
+  font-family: 'Genos', sans-serif;
+  /*font-size: 10.5;*/
+  background-color: #212121;
+}
+.back
+{
+  color: #fff3d6;
+  text-align: center;
+}
+/*fieldset {
+  background-color: #eeeeee;
+}*/
+p, span, label, legend
+{
+  color:#fff3d6;
+  border-color: #fff3d6;
+}
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+
+.topnav a:hover {
+  background-color: #b34d05;
+  /*background-color:#ffe066;*/
+  color: black;
+}
+
+.topnav a.active {
+  /*background-color: #00FF80;*/
+  background-color:#ffcc00;
+  color: black;
+}
+/*#size{
+  border-radius: 6px;
+  display: block;
+  margin-left: auto;
+  width: 25%;
+}*/
